@@ -1,0 +1,110 @@
+Source,Target,weight
+college & research libraries,information processing & management,0.011949767845005326
+college & research libraries,information technology and libraries,0.0048412670053054946
+college & research libraries,journal of academic librarianship,0.10154766714214053
+college & research libraries,journal of documentation,0.01787951694265358
+college & research libraries,journal of information science,0.005759526134898491
+college & research libraries,law library journal,0.025495296750747846
+college & research libraries,library and information science,0.025424770206925063
+college & research libraries,library quarterly,0.07907057021588165
+college & research libraries,library resources & technical services,0.04152918461074626
+college & research libraries,library trends,0.07609861743341632
+college & research libraries,mis quarterly,0.0027700645038151645
+college & research libraries,scientometrics,0.01768243473084876
+college & research libraries,zeitschrift fur bibliothekswesen und bibliographie,0.03923643381938139
+electronic library,information technology and libraries,0.04279604925109128
+electronic library,law library journal,0.0563436169819011
+government information quarterly,information processing & management,0.004972540377145176
+government information quarterly,information technology and libraries,0.07252377242938948
+government information quarterly,journal of academic librarianship,0.02001601922563589
+government information quarterly,journal of documentation,0.008370032682530422
+government information quarterly,law library journal,0.04774099160262886
+government information quarterly,library & information science research,0.07161148740394328
+government information quarterly,library quarterly,0.01910488959083368
+government information quarterly,library resources & technical services,0.03888255298906267
+government information quarterly,library trends,0.03053524082762296
+information & management,information processing & management,0.02749594517313999
+information & management,information technology and libraries,0.0501280411827603
+information & management,journal of academic librarianship,0.003952847075210474
+information & management,journal of information science,0.056796183424706485
+information & management,library & information science research,0.01414213562373095
+information & management,library trends,0.008040302522073696
+information & management,mis quarterly,0.1925800960361609
+information & management,scientometrics,0.003736523194714872
+information processing & management,information technology and libraries,0.04570952126524247
+information processing & management,journal of academic librarianship,0.005822532131667534
+information processing & management,journal of documentation,0.08278282736362359
+information processing & management,journal of information science,0.08923798545653325
+information processing & management,law library journal,0.02314591581792953
+information processing & management,library and information science,0.03923921005156092
+information processing & management,library quarterly,0.007409987121523042
+information processing & management,library resources & technical services,0.027145647084525982
+information processing & management,library trends,0.028621409831917535
+information processing & management,mis quarterly,0.009053295185872877
+information processing & management,scientometrics,0.05412156229555995
+information technology and libraries,journal of academic librarianship,0.07784404609744094
+information technology and libraries,journal of information science,0.030504443804328152
+information technology and libraries,law library journal,0.05907646307988055
+information technology and libraries,library & information science research,0.012659242088545831
+information technology and libraries,library and information science,0.03366459565639123
+information technology and libraries,library resources & technical services,0.09347999742059901
+information technology and libraries,library trends,0.010795837927188261
+information technology and libraries,mis quarterly,0.029342440684135582
+journal of academic librarianship,journal of documentation,0.016334636671541145
+journal of academic librarianship,journal of information science,0.01403166422084179
+journal of academic librarianship,law library journal,0.02795084971874737
+journal of academic librarianship,library & information science research,0.02096313728906053
+journal of academic librarianship,library and information science,0.00929117682808958
+journal of academic librarianship,library quarterly,0.03728437414199335
+journal of academic librarianship,library resources & technical services,0.06981117135692835
+journal of academic librarianship,library trends,0.03178208630818641
+journal of academic librarianship,mis quarterly,0.016196588709793423
+journal of documentation,journal of information science,0.11735149411559123
+journal of documentation,library and information science,0.023311564452539194
+journal of documentation,library quarterly,0.015591083651462785
+journal of documentation,library resources & technical services,0.012692481332648347
+journal of documentation,library trends,0.03488680154452332
+journal of documentation,mis quarterly,0.00338643701622862
+journal of documentation,scientometrics,0.08029167021227593
+journal of information science,law library journal,0.006693494407520824
+journal of information science,library & information science research,0.010040241611281236
+journal of information science,library and information science,0.030037403167077623
+journal of information science,library quarterly,0.008035765534382391
+journal of information science,library resources & technical services,0.002180601133287662
+journal of information science,library trends,0.03139527165732566
+journal of information science,mis quarterly,0.03927140829484966
+journal of information science,scientometrics,0.06631883023053005
+journal of information science,zeitschrift fur bibliothekswesen und bibliographie,0.010301070542879116
+law library journal,library and information science,0.011080374921908893
+law library journal,library quarterly,0.008892842141870135
+law library journal,library resources & technical services,0.05791629903507591
+law library journal,library trends,0.009475587393582686
+law library journal,mis quarterly,0.002414444890580247
+law library journal,scientometrics,0.0022017674075364238
+law library journal,zeitschrift fur bibliothekswesen und bibliographie,0.017099639201419232
+library & information science research,library quarterly,0.07336594767042862
+library & information science research,library resources & technical services,0.02714826517269183
+library & information science research,library trends,0.03553345272593507
+library & information science research,mis quarterly,0.0036216673358703704
+library & information science research,scientometrics,0.0033026511113046354
+library and information science,library quarterly,0.05320945352876711
+library and information science,library resources & technical services,0.01804877739556963
+library and information science,library trends,0.014174063225038303
+library and information science,mis quarterly,0.0024077659154324795
+library and information science,scientometrics,0.04830488856535904
+library and information science,zeitschrift fur bibliothekswesen und bibliographie,0.051157011612895896
+library quarterly,library resources & technical services,0.03476523407131862
+library quarterly,library trends,0.03412728567151333
+library quarterly,mis quarterly,0.007729659817983019
+library quarterly,scientometrics,0.015859775690552216
+library quarterly,zeitschrift fur bibliothekswesen und bibliographie,0.027371590578208
+library resources & technical services,library trends,0.021608643775151884
+library resources & technical services,mis quarterly,0.0047194552896712896
+library resources & technical services,scientometrics,0.011476639762250704
+library resources & technical services,zeitschrift fur bibliothekswesen und bibliographie,0.011141412945539659
+library trends,mis quarterly,0.004118091042182817
+library trends,scientometrics,0.04881951240766088
+library trends,telecommunications policy,0.008206099398622182
+library trends,zeitschrift fur bibliothekswesen und bibliographie,0.007291310654330117
+mis quarterly,scientometrics,0.0038275531685081536
+scientometrics,zeitschrift fur bibliothekswesen und bibliographie,0.020330691268131196

@@ -1,0 +1,16 @@
+Source,Target,weight
+college & research libraries,journal of documentation,0.04027525989740533
+college & research libraries,law library journal,0.06335255098884479
+college & research libraries,library quarterly,0.07244629851465367
+college & research libraries,library resources & technical services,0.021606790785072147
+college & research libraries,library trends,0.12275217392779177
+journal of documentation,law library journal,0.006325694047760047
+journal of documentation,library quarterly,0.03959496970600277
+journal of documentation,library resources & technical services,0.025889018653924886
+journal of documentation,library trends,0.07165450625379491
+law library journal,library quarterly,0.04311862741987243
+law library journal,library resources & technical services,0.05090393514846051
+law library journal,library trends,0.04449148747944638
+library quarterly,library resources & technical services,0.024509803921568627
+library quarterly,library trends,0.04927121157874201
+library resources & technical services,library trends,0.048557136048615314

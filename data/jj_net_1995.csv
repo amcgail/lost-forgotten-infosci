@@ -1,0 +1,552 @@
+Source,Target,weight
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,college & research libraries,0.0260142770844489
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,electronic library,0.014973072681986681
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,european journal of information systems,0.015355768385873879
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,government information quarterly,0.019562767576168476
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,information & management,0.005545030746140916
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,information processing & management,0.02703880104809864
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,information society,0.005962106035186265
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,information systems journal,0.01682672083389768
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,information systems research,0.013861961229652406
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,information technology and libraries,0.017005425596285897
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,international journal of information management,0.017851521569863735
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of academic librarianship,0.01629688356223209
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of documentation,0.021243915191999058
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of health communication,0.006618598980289478
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of information science,0.016801384491125455
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of information technology,0.012431128952471173
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of librarianship and information science,0.005333655732934896
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of management information systems,0.003749343922215396
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of scholarly publishing,0.008600261451922268
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of strategic information systems,0.01418267547166779
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,journal of the american medical informatics association,0.004241799197625955
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,knowledge organization,0.00747685755693224
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,library & information science research,0.027843962712623804
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,library quarterly,0.018013498270482205
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,library resources & technical services,0.006029349958969882
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,library trends,0.012532597774980147
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,mis quarterly,0.01234525138083272
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,qualitative health research,0.02270354150174546
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,scientometrics,0.006868244183351998
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,social science computer review,0.01695704590907445
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,telecommunications policy,0.0030406515963157495
+canadian journal of information and library science-revue canadienne des sciences de l information et de bibliotheconomie,zeitschrift fur bibliothekswesen und bibliographie,0.017902871850985824
+college & research libraries,electronic library,0.029256803912337856
+college & research libraries,european journal of information systems,0.009809188468142039
+college & research libraries,government information quarterly,0.01764225688385748
+college & research libraries,information & management,0.00791772037092419
+college & research libraries,information processing & management,0.015118300244591985
+college & research libraries,information society,0.004032596838561214
+college & research libraries,information systems journal,0.006069925030980141
+college & research libraries,information systems research,0.008125720554825211
+college & research libraries,information technology and libraries,0.03642293726332932
+college & research libraries,international journal of information management,0.0062607248878915655
+college & research libraries,journal of academic librarianship,0.08713215705226243
+college & research libraries,journal of documentation,0.018287528636673062
+college & research libraries,journal of health communication,0.004476629762386637
+college & research libraries,journal of information science,0.009469977217014168
+college & research libraries,journal of information technology,0.004982552686870876
+college & research libraries,journal of librarianship and information science,0.007215062301700643
+college & research libraries,journal of scholarly publishing,0.02326787677853711
+college & research libraries,journal of strategic information systems,0.00852689181110076
+college & research libraries,journal of the american medical informatics association,0.0011476123325017999
+college & research libraries,knowledge organization,0.001685710383127255
+college & research libraries,law library journal,0.014923987961739103
+college & research libraries,learned publishing,0.004215808143274257
+college & research libraries,library & information science research,0.06277618196505579
+college & research libraries,library and information science,0.012569111451277882
+college & research libraries,library quarterly,0.054537061076017766
+college & research libraries,library resources & technical services,0.0353433486663017
+college & research libraries,library trends,0.029668408870671598
+college & research libraries,mis quarterly,0.009109060955511382
+college & research libraries,qualitative health research,0.005687415446311844
+college & research libraries,scientometrics,0.008258635713784369
+college & research libraries,social science computer review,0.0030584686829658587
+college & research libraries,telecommunications policy,0.002742145575652765
+college & research libraries,zeitschrift fur bibliothekswesen und bibliographie,0.03632696097723621
+electronic library,european journal of information systems,0.005313776834991569
+electronic library,government information quarterly,0.025385944200827862
+electronic library,information & management,0.00479706635118064
+electronic library,information processing & management,0.028069872710669127
+electronic library,information society,0.00309472962942192
+electronic library,information systems journal,0.0017468374840484498
+electronic library,information systems research,0.012951503947603533
+electronic library,information technology and libraries,0.06178862955509011
+electronic library,international journal of geographical information science,0.004417627398017828
+electronic library,international journal of information management,0.014413975600246317
+electronic library,journal of academic librarianship,0.03141976177474483
+electronic library,journal of documentation,0.024058920266803882
+electronic library,journal of health communication,0.006870986275212611
+electronic library,journal of information science,0.019622331389202767
+electronic library,journal of information technology,0.005735629191629032
+electronic library,journal of librarianship and information science,0.00553704423652842
+electronic library,journal of management information systems,0.007784635602583998
+electronic library,journal of scholarly publishing,0.008928215559724617
+electronic library,journal of strategic information systems,0.008179724440326075
+electronic library,journal of the american medical informatics association,0.008807103786131207
+electronic library,knowledge organization,0.007761972859874674
+electronic library,law library journal,0.02863273318862728
+electronic library,library & information science research,0.031129255916314692
+electronic library,library quarterly,0.010685947261531515
+electronic library,library resources & technical services,0.0031296336989073675
+electronic library,library trends,0.016263129772836463
+electronic library,mis quarterly,0.0034952763645583434
+electronic library,qualitative health research,0.003928216090287791
+electronic library,scientometrics,0.005941792673842233
+electronic library,social science computer review,0.014082935685498182
+electronic library,zeitschrift fur bibliothekswesen und bibliographie,0.00929278138329161
+european journal of information systems,government information quarterly,0.026034781750148294
+european journal of information systems,information & management,0.23368452593423847
+european journal of information systems,information processing & management,0.026484323910735283
+european journal of information systems,information society,0.015869138023845795
+european journal of information systems,information systems journal,0.15899427418468084
+european journal of information systems,information systems research,0.14463199898934845
+european journal of information systems,information technology and libraries,0.005657846496461844
+european journal of information systems,international journal of geographical information science,0.006795805835564646
+european journal of information systems,international journal of information management,0.16682973273329785
+european journal of information systems,journal of academic librarianship,0.012393391246138991
+european journal of information systems,journal of documentation,0.012336920252704883
+european journal of information systems,journal of health communication,0.0061657761608052445
+european journal of information systems,journal of information science,0.0273908055884213
+european journal of information systems,journal of information technology,0.21065720901965398
+european journal of information systems,journal of librarianship and information science,0.009937489026305646
+european journal of information systems,journal of management information systems,0.05788111850515568
+european journal of information systems,journal of strategic information systems,0.19126439918162294
+european journal of information systems,journal of the american medical informatics association,0.005870932553100767
+european journal of information systems,knowledge organization,0.001990090143572653
+european journal of information systems,library & information science research,0.015962443181438496
+european journal of information systems,library and information science,0.0018548311340298295
+european journal of information systems,library quarterly,0.004794592525854984
+european journal of information systems,library resources & technical services,0.0008024059462234372
+european journal of information systems,library trends,0.010424248721570313
+european journal of information systems,mis quarterly,0.19416647713295887
+european journal of information systems,qualitative health research,0.03323609096806841
+european journal of information systems,scientometrics,0.006703024385020695
+european journal of information systems,social science computer review,0.009929480303156794
+european journal of information systems,telecommunications policy,0.017805041217835237
+government information quarterly,information & management,0.024443291946025618
+government information quarterly,information processing & management,0.00770156704323864
+government information quarterly,information society,0.033357694264414595
+government information quarterly,information systems journal,0.018828937484077414
+government information quarterly,information systems research,0.015511400229213377
+government information quarterly,information technology and libraries,0.004324751450161574
+government information quarterly,international journal of information management,0.026230690347787647
+government information quarterly,journal of academic librarianship,0.04026141949770614
+government information quarterly,journal of documentation,0.005893818631653661
+government information quarterly,journal of health communication,0.010099292855438962
+government information quarterly,journal of information science,0.019227872415827144
+government information quarterly,journal of information technology,0.03372197038171136
+government information quarterly,journal of librarianship and information science,0.010851471013209204
+government information quarterly,journal of management information systems,0.007628144546195649
+government information quarterly,journal of strategic information systems,0.04167951366437172
+government information quarterly,journal of the american medical informatics association,0.0025890175524075558
+government information quarterly,library & information science research,0.02396701872164868
+government information quarterly,library and information science,0.0070889901676518905
+government information quarterly,library trends,0.012748959464672223
+government information quarterly,mis quarterly,0.025116757476990752
+government information quarterly,qualitative health research,0.006415414858010043
+government information quarterly,scientometrics,0.0011644694933324806
+government information quarterly,telecommunications policy,0.015465725719295973
+government information quarterly,zeitschrift fur bibliothekswesen und bibliographie,0.009105972745135884
+information & management,information processing & management,0.0600843417276167
+information & management,information society,0.02292164248528971
+information & management,information systems journal,0.10835784012744427
+information & management,information systems research,0.17826531082997113
+information & management,information technology and libraries,0.006537828806261447
+information & management,international journal of geographical information science,0.006952980936906192
+information & management,international journal of information management,0.13344945886365314
+information & management,journal of academic librarianship,0.005370365099177694
+information & management,journal of documentation,0.011508523551985958
+information & management,journal of health communication,0.014631200157043384
+information & management,journal of information science,0.027048670869691156
+information & management,journal of information technology,0.1579796222397414
+information & management,journal of librarianship and information science,0.005126382738265491
+information & management,journal of management information systems,0.10018117541082532
+information & management,journal of strategic information systems,0.1596402188175313
+information & management,journal of the american medical informatics association,0.014187811084178407
+information & management,knowledge organization,0.004311778123921354
+information & management,law library journal,0.002120732187027915
+information & management,library & information science research,0.015233702094475488
+information & management,library quarterly,0.0029680233664455785
+information & management,library resources & technical services,0.00289752067815006
+information & management,library trends,0.006323921239206675
+information & management,mis quarterly,0.264924218876067
+information & management,qualitative health research,0.018911751314502723
+information & management,scientist,0.0006435106363269899
+information & management,scientometrics,0.005061023522417072
+information & management,social science computer review,0.018253841119121535
+information & management,telecommunications policy,0.02162640978594414
+information processing & management,information society,0.004694382752348587
+information processing & management,information systems journal,0.01968401057777199
+information processing & management,information systems research,0.0240118798487586
+information processing & management,information technology and libraries,0.0277355171883927
+information processing & management,international journal of geographical information science,0.006222432340250438
+information processing & management,international journal of information management,0.020972072193528847
+information processing & management,journal of academic librarianship,0.01937844850441966
+information processing & management,journal of documentation,0.1524964545970483
+information processing & management,journal of health communication,0.002977877444592056
+information processing & management,journal of information science,0.09307479026546041
+information processing & management,journal of information technology,0.019265066309304624
+information processing & management,journal of librarianship and information science,0.008399119818362139
+information processing & management,journal of management information systems,0.01349540799342427
+information processing & management,journal of scholarly publishing,0.007738956438226064
+information processing & management,journal of strategic information systems,0.01878894011315426
+information processing & management,journal of the american medical informatics association,0.020039189717268344
+information processing & management,knowledge organization,0.03868634490887183
+information processing & management,law library journal,0.0049637572787494585
+information processing & management,learned publishing,0.004206566316718661
+information processing & management,library & information science research,0.08721215592965981
+information processing & management,library and information science,0.04546314647421188
+information processing & management,library quarterly,0.03994476490390912
+information processing & management,library resources & technical services,0.010172846984972774
+information processing & management,library trends,0.02713642274171083
+information processing & management,mis quarterly,0.02726727665739878
+information processing & management,qualitative health research,0.01730859013724751
+information processing & management,scientist,0.0007530961770088763
+information processing & management,scientometrics,0.03450722467592423
+information processing & management,social science computer review,0.0061035279145842765
+information processing & management,telecommunications policy,0.008892436437262528
+information processing & management,zeitschrift fur bibliothekswesen und bibliographie,0.014096182177704128
+information society,information systems journal,0.030257324460990626
+information society,information systems research,0.019769038663473404
+information society,information technology and libraries,0.007908275745125117
+information society,international journal of information management,0.036896657022833346
+information society,journal of academic librarianship,0.0057743027288432135
+information society,journal of documentation,0.0251474644863828
+information society,journal of information science,0.007813387598173871
+information society,journal of information technology,0.02141120480827094
+information society,journal of management information systems,0.00697444364030836
+information society,journal of strategic information systems,0.014656826604284582
+information society,journal of the american medical informatics association,0.004208265417610003
+information society,knowledge organization,0.004636093026699029
+information society,learned publishing,0.005797223215377002
+information society,library & information science research,0.014608761915654342
+information society,library quarterly,0.012765065396958819
+information society,library resources & technical services,0.0018692764364884686
+information society,library trends,0.02039874477480051
+information society,mis quarterly,0.018789016665460047
+information society,qualitative health research,0.007820853259998043
+information society,scientist,0.002075738886329089
+information society,scientometrics,0.0056782890800751665
+information society,social science computer review,0.05888046863079376
+information society,telecommunications policy,0.015083067778099677
+information systems journal,information systems research,0.10431000453465261
+information systems journal,information technology and libraries,0.0029759137113713357
+information systems journal,international journal of geographical information science,0.014893572859774737
+information systems journal,international journal of information management,0.13606662900390878
+information systems journal,journal of academic librarianship,0.008963178229367494
+information systems journal,journal of documentation,0.02027803895830672
+information systems journal,journal of health communication,0.006949445402817895
+information systems journal,journal of information science,0.026461862524201667
+information systems journal,journal of information technology,0.18563596116885497
+information systems journal,journal of librarianship and information science,0.0074670282787121555
+information systems journal,journal of management information systems,0.05511469322433062
+information systems journal,journal of strategic information systems,0.14505550957339122
+information systems journal,journal of the american medical informatics association,0.011283050252915244
+information systems journal,knowledge organization,0.0026168686923665942
+information systems journal,law library journal,0.001930645839939576
+information systems journal,library & information science research,0.019490539638950723
+information systems journal,library quarterly,0.009907304971296067
+information systems journal,library resources & technical services,0.005275617805611849
+information systems journal,library trends,0.006579534751393286
+information systems journal,mis quarterly,0.1386579523664407
+information systems journal,qualitative health research,0.07195674862235137
+information systems journal,scientometrics,0.004006427619733261
+information systems journal,social science computer review,0.021365621048647136
+information systems journal,telecommunications policy,0.007449506874169427
+information systems research,information technology and libraries,0.006128942308045796
+information systems research,international journal of geographical information science,0.006748181798173811
+information systems research,international journal of information management,0.09722314502413827
+information systems research,journal of academic librarianship,0.004698860776559472
+information systems research,journal of documentation,0.010579946938633615
+information systems research,journal of health communication,0.01144999595493183
+information systems research,journal of information science,0.012716347666957346
+information systems research,journal of information technology,0.09757131570527791
+information systems research,journal of librarianship and information science,0.0015378465228309411
+information systems research,journal of management information systems,0.05297114668004125
+information systems research,journal of scholarly publishing,0.002479703008877548
+information systems research,journal of strategic information systems,0.10768420765550296
+information systems research,journal of the american medical informatics association,0.00978426276197122
+information systems research,knowledge organization,0.0021557933191356285
+information systems research,library & information science research,0.01296865690183655
+information systems research,library quarterly,0.005935783113628991
+information systems research,library resources & technical services,0.005215305599165801
+information systems research,library trends,0.009033771992107344
+information systems research,mis quarterly,0.19933152047409727
+information systems research,qualitative health research,0.013455840836187815
+information systems research,scientist,0.0009652230871226612
+information systems research,scientometrics,0.0029704688390648245
+information systems research,social science computer review,0.017601136522521623
+information systems research,telecommunications policy,0.016657440722606998
+information technology and libraries,journal of academic librarianship,0.022645924596713576
+information technology and libraries,journal of documentation,0.027324530322778286
+information technology and libraries,journal of information science,0.011142873061258602
+information technology and libraries,journal of information technology,0.006107014000506871
+information technology and libraries,journal of librarianship and information science,0.009432912915153321
+information technology and libraries,journal of strategic information systems,0.004180495496488403
+information technology and libraries,journal of the american medical informatics association,0.005251326127291856
+information technology and libraries,knowledge organization,0.01652912883419709
+information technology and libraries,law library journal,0.009755749354839208
+information technology and libraries,library & information science research,0.02272792493833358
+information technology and libraries,library and information science,0.024649128888217856
+information technology and libraries,library quarterly,0.009102294078577435
+information technology and libraries,library resources & technical services,0.06131393394849658
+information technology and libraries,library trends,0.023549998568461634
+information technology and libraries,mis quarterly,0.005954555563013573
+information technology and libraries,qualitative health research,0.003346056010094385
+information technology and libraries,scientometrics,0.0010122442671216703
+information technology and libraries,social science computer review,0.00599792507682305
+information technology and libraries,telecommunications policy,0.008066381619718566
+information technology and libraries,zeitschrift fur bibliothekswesen und bibliographie,0.023746784507298883
+international journal of geographical information science,international journal of information management,0.011411572426911112
+international journal of geographical information science,journal of academic librarianship,0.0030909870562931606
+international journal of geographical information science,journal of documentation,0.002564085706263791
+international journal of geographical information science,journal of information science,0.004647233530633329
+international journal of geographical information science,journal of information technology,0.005501485601695769
+international journal of geographical information science,journal of management information systems,0.0016592991419152744
+international journal of geographical information science,journal of strategic information systems,0.011158480216949372
+international journal of geographical information science,journal of the american medical informatics association,0.012765223628656602
+international journal of geographical information science,library & information science research,0.0018957763276038092
+international journal of geographical information science,library quarterly,0.0011388576181861041
+international journal of geographical information science,library trends,0.004159793519629905
+international journal of geographical information science,mis quarterly,0.005960159851842796
+international journal of geographical information science,qualitative health research,0.0005582008733295725
+international journal of geographical information science,scientometrics,0.0015197954517288785
+international journal of geographical information science,social science computer review,0.0015008925460068116
+international journal of information management,journal of academic librarianship,0.01728920772400306
+international journal of information management,journal of documentation,0.01115490751848978
+international journal of information management,journal of health communication,0.005461250886989882
+international journal of information management,journal of information science,0.03205921412181309
+international journal of information management,journal of information technology,0.20685725233386026
+international journal of information management,journal of librarianship and information science,0.008801993349086509
+international journal of information management,journal of management information systems,0.04640583577085085
+international journal of information management,journal of strategic information systems,0.20414623210779054
+international journal of information management,journal of the american medical informatics association,0.0073501374488554524
+international journal of information management,knowledge organization,0.0015423579478941057
+international journal of information management,law library journal,0.004551618450685866
+international journal of information management,library & information science research,0.007952913615278164
+international journal of information management,library resources & technical services,0.0037312797892866726
+international journal of information management,library trends,0.005816874427168591
+international journal of information management,mis quarterly,0.13010968846005952
+international journal of information management,qualitative health research,0.008846390137638115
+international journal of information management,scientometrics,0.002833621190081051
+international journal of information management,social science computer review,0.006995942969762059
+international journal of information management,telecommunications policy,0.00627238531782156
+journal of academic librarianship,journal of documentation,0.013093018064783258
+journal of academic librarianship,journal of health communication,0.0032050582401131735
+journal of academic librarianship,journal of information science,0.018306168107503507
+journal of academic librarianship,journal of information technology,0.014715011319481207
+journal of academic librarianship,journal of librarianship and information science,0.002582824145665672
+journal of academic librarianship,journal of scholarly publishing,0.024988072777062775
+journal of academic librarianship,journal of strategic information systems,0.012972821277093488
+journal of academic librarianship,journal of the american medical informatics association,0.0012324554043909063
+journal of academic librarianship,knowledge organization,0.007241340348422205
+journal of academic librarianship,law library journal,0.013356099658390332
+journal of academic librarianship,library & information science research,0.05393378411066429
+journal of academic librarianship,library and information science,0.0033745867175261376
+journal of academic librarianship,library quarterly,0.03239986701894888
+journal of academic librarianship,library resources & technical services,0.029197142516220635
+journal of academic librarianship,library trends,0.0743441923482951
+journal of academic librarianship,mis quarterly,0.01032596648354892
+journal of academic librarianship,qualitative health research,0.018934448233474614
+journal of academic librarianship,scientometrics,0.007206222818624016
+journal of academic librarianship,social science computer review,0.008211453795691279
+journal of academic librarianship,telecommunications policy,0.002944872618240675
+journal of academic librarianship,zeitschrift fur bibliothekswesen und bibliographie,0.013004205373049207
+journal of documentation,journal of health communication,0.0026587118844401078
+journal of documentation,journal of information science,0.07677179318220453
+journal of documentation,journal of information technology,0.010542093697641067
+journal of documentation,journal of librarianship and information science,0.010712730841449091
+journal of documentation,journal of management information systems,0.0015061231651190585
+journal of documentation,journal of scholarly publishing,0.010364255667829173
+journal of documentation,journal of strategic information systems,0.0075963000512093565
+journal of documentation,journal of the american medical informatics association,0.014313129494998416
+journal of documentation,knowledge organization,0.03303824739116215
+journal of documentation,law library journal,0.006647621022376481
+journal of documentation,learned publishing,0.011267133789460707
+journal of documentation,library & information science research,0.05764580425585889
+journal of documentation,library and information science,0.025194077064818944
+journal of documentation,library quarterly,0.05168627516261291
+journal of documentation,library resources & technical services,0.01937606969583836
+journal of documentation,library trends,0.024542620407895805
+journal of documentation,mis quarterly,0.01622986704551319
+journal of documentation,qualitative health research,0.019760181000574015
+journal of documentation,scientometrics,0.0689748785577425
+journal of documentation,social science computer review,0.017710415603975814
+journal of documentation,telecommunications policy,0.004885756976448746
+journal of documentation,zeitschrift fur bibliothekswesen und bibliographie,0.010787459316747074
+journal of health communication,journal of information science,0.0028912422827707734
+journal of health communication,journal of information technology,0.0057045149136679746
+journal of health communication,journal of strategic information systems,0.003254140635704643
+journal of health communication,journal of the american medical informatics association,0.004087686198086381
+journal of health communication,library & information science research,0.010320129300151446
+journal of health communication,library trends,0.0021566542102004057
+journal of health communication,mis quarterly,0.010815203500006252
+journal of health communication,qualitative health research,0.024309640770754704
+journal of health communication,scientometrics,0.0007879413351040863
+journal of health communication,social science computer review,0.004668846489320916
+journal of health communication,telecommunications policy,0.004185969539396526
+journal of information science,journal of information technology,0.0277551968798132
+journal of information science,journal of librarianship and information science,0.02795919382224843
+journal of information science,journal of management information systems,0.024567725842376046
+journal of information science,journal of scholarly publishing,0.01502761513530689
+journal of information science,journal of strategic information systems,0.02478201270608384
+journal of information science,journal of the american medical informatics association,0.015935546993073906
+journal of information science,knowledge organization,0.040827006544803535
+journal of information science,learned publishing,0.008168370006135309
+journal of information science,library & information science research,0.03368283287697742
+journal of information science,library and information science,0.009132515299544463
+journal of information science,library quarterly,0.022482698492249906
+journal of information science,library resources & technical services,0.005267674198394632
+journal of information science,library trends,0.043797518729133476
+journal of information science,mis quarterly,0.01715906879372371
+journal of information science,qualitative health research,0.022039387071349514
+journal of information science,scientometrics,0.06550646908324873
+journal of information science,social science computer review,0.014814896103905344
+journal of information science,telecommunications policy,0.002656532141809275
+journal of information technology,journal of librarianship and information science,0.009194066225649182
+journal of information technology,journal of management information systems,0.04847292089559259
+journal of information technology,journal of strategic information systems,0.22003072126383155
+journal of information technology,journal of the american medical informatics association,0.005362090988596133
+journal of information technology,knowledge organization,0.003222120388915419
+journal of information technology,library & information science research,0.014768294017212823
+journal of information technology,library quarterly,0.0022179547112466664
+journal of information technology,library resources & technical services,0.002598323063770421
+journal of information technology,library trends,0.010351668305782049
+journal of information technology,mis quarterly,0.16863213499403693
+journal of information technology,qualitative health research,0.05435553299433667
+journal of information technology,scientist,0.0009617696839685295
+journal of information technology,scientometrics,0.0029598410095040373
+journal of information technology,social science computer review,0.010717766073550577
+journal of information technology,telecommunications policy,0.020965696734438367
+journal of librarianship and information science,journal of management information systems,0.004159523618737501
+journal of librarianship and information science,journal of strategic information systems,0.012237762237762238
+journal of librarianship and information science,journal of the american medical informatics association,0.0018823414778169096
+journal of librarianship and information science,knowledge organization,0.008294828707956801
+journal of librarianship and information science,library & information science research,0.016633132471178876
+journal of librarianship and information science,library and information science,0.007731060117378554
+journal of librarianship and information science,library quarterly,0.01427441575048472
+journal of librarianship and information science,library resources & technical services,0.023411371237458192
+journal of librarianship and information science,library trends,0.027807337779973428
+journal of librarianship and information science,mis quarterly,0.0074704509418883885
+journal of librarianship and information science,qualitative health research,0.0027985908724501864
+journal of librarianship and information science,scientometrics,0.011429449188684425
+journal of librarianship and information science,social science computer review,0.003762430677265527
+journal of librarianship and information science,zeitschrift fur bibliothekswesen und bibliographie,0.009930726528736966
+journal of management information systems,journal of scholarly publishing,0.006707030304879449
+journal of management information systems,journal of strategic information systems,0.040555355282690636
+journal of management information systems,journal of the american medical informatics association,0.001984814712301452
+journal of management information systems,knowledge organization,0.0029154642855888317
+journal of management information systems,learned publishing,0.007291310654330118
+journal of management information systems,library & information science research,0.010022072867228945
+journal of management information systems,library quarterly,0.0020068672076743086
+journal of management information systems,library resources & technical services,0.002351035088851631
+journal of management information systems,library trends,0.008552001512088944
+journal of management information systems,mis quarterly,0.09365040172658677
+journal of management information systems,qualitative health research,0.001967296016800616
+journal of management information systems,scientometrics,0.0035708621291396995
+journal of management information systems,social science computer review,0.00528967271189059
+journal of management information systems,telecommunications policy,0.007113879915305902
+journal of scholarly publishing,journal of the american medical informatics association,0.001517592216447312
+journal of scholarly publishing,law library journal,0.019735347318649635
+journal of scholarly publishing,learned publishing,0.06689936080056727
+journal of scholarly publishing,library & information science research,0.011494337240934696
+journal of scholarly publishing,library quarterly,0.0368268860757697
+journal of scholarly publishing,library resources & technical services,0.02157125818942756
+journal of scholarly publishing,library trends,0.0252213665035664
+journal of scholarly publishing,mis quarterly,0.004015246732634923
+journal of scholarly publishing,scientometrics,0.006143144352017039
+journal of scholarly publishing,social science computer review,0.012133474352088064
+journal of scholarly publishing,telecommunications policy,0.005439282932204212
+journal of scholarly publishing,zeitschrift fur bibliothekswesen und bibliographie,0.016012815380508715
+journal of strategic information systems,journal of the american medical informatics association,0.006673756148623588
+journal of strategic information systems,library & information science research,0.009126621388406591
+journal of strategic information systems,library quarterly,0.0025304646103132006
+journal of strategic information systems,library resources & technical services,0.001976284584980237
+journal of strategic information systems,library trends,0.011296730973114205
+journal of strategic information systems,mis quarterly,0.1938638613745354
+journal of strategic information systems,qualitative health research,0.03596825314478591
+journal of strategic information systems,scientometrics,0.0007504183810752401
+journal of strategic information systems,social science computer review,0.0033348817366671718
+journal of strategic information systems,telecommunications policy,0.022923107322797356
+journal of the american medical informatics association,knowledge organization,0.004617751812966472
+journal of the american medical informatics association,learned publishing,0.0016497966750889208
+journal of the american medical informatics association,library & information science research,0.00453536634981637
+journal of the american medical informatics association,library and information science,0.002459371676367974
+journal of the american medical informatics association,library quarterly,0.002724549538648274
+journal of the american medical informatics association,library resources & technical services,0.0005319660698178222
+journal of the american medical informatics association,library trends,0.005805155339919894
+journal of the american medical informatics association,mis quarterly,0.007525481377874393
+journal of the american medical informatics association,qualitative health research,0.0028933960955000487
+journal of the american medical informatics association,scientist,0.0011814439381719777
+journal of the american medical informatics association,scientometrics,0.005049843528780551
+journal of the american medical informatics association,social science computer review,0.002992220763218689
+journal of the american medical informatics association,telecommunications policy,0.0005365498736629086
+knowledge organization,law library journal,0.00857871481948649
+knowledge organization,learned publishing,0.021810252258836444
+knowledge organization,library & information science research,0.01832031018600823
+knowledge organization,library and information science,0.02167520295874517
+knowledge organization,library quarterly,0.018009223083933216
+knowledge organization,library resources & technical services,0.007032572165441635
+knowledge organization,library trends,0.02679947223720981
+knowledge organization,mis quarterly,0.0017453787913121372
+knowledge organization,qualitative health research,0.00196156879644787
+knowledge organization,scientometrics,0.04539594894783374
+knowledge organization,social science computer review,0.010548546681796053
+knowledge organization,telecommunications policy,0.002364389962054795
+knowledge organization,zeitschrift fur bibliothekswesen und bibliographie,0.0069605755798713064
+law library journal,library & information science research,0.004914969315696595
+law library journal,library quarterly,0.008857770033567695
+law library journal,library trends,0.01617695390346226
+law library journal,mis quarterly,0.003863061580882888
+law library journal,qualitative health research,0.0014471855801035472
+law library journal,social science computer review,0.011673593612868778
+learned publishing,library trends,0.0030465017873431374
+learned publishing,mis quarterly,0.002182516698942471
+learned publishing,scientometrics,0.006678301994902767
+learned publishing,social science computer review,0.006595238637363743
+library & information science research,library and information science,0.02794114961444042
+library & information science research,library quarterly,0.041271813188616946
+library & information science research,library resources & technical services,0.021488767416181404
+library & information science research,library trends,0.031406146662497324
+library & information science research,mis quarterly,0.015499581516948486
+library & information science research,qualitative health research,0.05057252504152861
+library & information science research,scientometrics,0.011219362583290305
+library & information science research,social science computer review,0.015108843328272609
+library & information science research,telecommunications policy,0.009482344443028326
+library & information science research,zeitschrift fur bibliothekswesen und bibliographie,0.011963685510425556
+library and information science,library quarterly,0.011190135543575704
+library and information science,library resources & technical services,0.004369729631561792
+library and information science,library trends,0.02043655527022159
+library and information science,scientometrics,0.003318474941083343
+library and information science,zeitschrift fur bibliothekswesen und bibliographie,0.03892494720807615
+library quarterly,library resources & technical services,0.019363555278918403
+library quarterly,library trends,0.048634277134733575
+library quarterly,mis quarterly,0.0042050256540580025
+library quarterly,qualitative health research,0.013502508374556611
+library quarterly,scientometrics,0.01654327914515783
+library quarterly,social science computer review,0.01270695783367296
+library quarterly,zeitschrift fur bibliothekswesen und bibliographie,0.03353930851693736
+library resources & technical services,library trends,0.015717190919115415
+library resources & technical services,mis quarterly,0.0035186906610343857
+library resources & technical services,qualitative health research,0.013445403974162851
+library resources & technical services,scientometrics,0.020098161858362953
+library resources & technical services,social science computer review,0.0021265912523674717
+library resources & technical services,zeitschrift fur bibliothekswesen und bibliographie,0.044904154738636716
+library trends,mis quarterly,0.008045339639323723
+library trends,qualitative health research,0.03452350158335194
+library trends,scientometrics,0.02984000648036983
+library trends,social science computer review,0.011050823463175739
+library trends,telecommunications policy,0.00693552194434674
+library trends,zeitschrift fur bibliothekswesen und bibliographie,0.02625123055527409
+mis quarterly,qualitative health research,0.026499287650653153
+mis quarterly,scientometrics,0.004542699252955486
+mis quarterly,social science computer review,0.017417004336063916
+mis quarterly,telecommunications policy,0.008517624578349849
+qualitative health research,scientist,0.001756524127340779
+qualitative health research,scientometrics,0.005105377211296107
+qualitative health research,social science computer review,0.027582036125173504
+qualitative health research,telecommunications policy,0.0015954422688372295
+scientometrics,social science computer review,0.01130488213951663
+scientometrics,zeitschrift fur bibliothekswesen und bibliographie,0.0021313291212343797
+social science computer review,telecommunications policy,0.0214491549842863
