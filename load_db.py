@@ -1,2 +1,4 @@
 from knowknow import *
-db = Dataset('10.7910/DVN/RHJ8UX')
+from params import *
+
+db = Dataset(input_dataset)
